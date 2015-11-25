@@ -1,0 +1,7 @@
+/vendor/
+composer.phar
+/build/
+clover_report.xml
+/tests/phpunit
+/alex-tests/alex-tests-utils/
+/alex-tests/phpunit
